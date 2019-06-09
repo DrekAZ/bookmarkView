@@ -2,7 +2,8 @@ import json
 import tkinter as tk
 import webbrowser
 
-# This program chrome
+# This program chrome only
+# second search must destroy array if sign
 path = r"C:\Users\reuser\AppData\Local\Google\Chrome\User Data\Default\Bookmarks"
 bro = webbrowser.get('"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" %s')
 labelArray = []
